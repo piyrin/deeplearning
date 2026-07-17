@@ -1,0 +1,17 @@
+# LaTeX build outputs
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+*.toc
+*.out
+*.synctex.gz
+
+# Project-specific generated folders
+day*/latex_build/
+
+# Common OS junk
+.DS_Store
+Thumbs.db
+Desktop.ini
